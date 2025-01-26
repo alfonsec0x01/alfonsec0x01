@@ -1,5 +1,6 @@
-![MasterHead](https://drive.google.com/file/d/1PukNMHgJhGPrJdHCc3CA4_0MDL8cz7VH/view?usp=drive_link)
+![MasterHead](https://drive.google.com/file/d/1PukNMHgJhGPrJdHCc3CA4_0MDL8cz7VH/view?usp=drive_link.png)
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Penetration Tester | Ethical Hacker</h3>
 <h3 align="center">A passionate cybersecurity professional. I specialize in penetration testing and bug hunting, with a robust background in network security and ethical hacking.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **abdullahahmedhoussin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing](https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing](https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing" rel="nofollow" target="_blank"><code>Resume</code></a>)
 
 - ⚡ Fun fact **I think I'm curious.**
 
