@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Information Technology & Security**
 
-- 📫 How to reach me **abdullahahmedhoussin@gmail.com**
+- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahahmedhoussin@gmail.com" target="_blank" title="Gmail"><code>E-mail</code></a>
 
 - 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing](https://drive.google.com/file/d/1VsrToVlRmNqRy8SgxSkYFicg7uyk8Hur/view?usp=sharing" rel="nofollow" target="_blank"><code>My CV</code></a>
 
