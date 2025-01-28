@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Penetration Tester | Ethical Hacker</h3>
 <h3 align="center">A passionate cybersecurity professional. I specialize in penetration testing and bug hunting, with a robust background in network security and ethical hacking.</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alfonsec0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsec0x01" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsec0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsec0x01" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abdullahah58517" target="blank"><img src="https://img.shields.io/twitter/follow/abdullahah58517?logo=twitter&style=for-the-badge" alt="abdullahah58517" /></a> </p>
 
 - 🌱 I’m currently learning **Penetration Testing & Ethical Hacking**
 
