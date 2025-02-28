@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Cyber​​security Specialist | SOC Analyst</h3>
-<h3 align="center">A passionate cybersecurity professional specializing in **Threat Detection, Security Monitoring, and Incident Response**, with a strong background in **SIEM, Log Analysis, and Network Security**.</h3>
+<h3 align="center">A passionate cybersecurity professional specializing in Threat Detection, Security Monitoring, and Incident Response, with a strong background in SIEM, Log Analysis, and Network Security.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alfonsec0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsec0x01" /> </p>
 
