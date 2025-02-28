@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Penetration Tester | Ethical Hacker</h3>
-<h3 align="center">A passionate cybersecurity professional. I specialize in penetration testing and bug hunting, with a robust background in network security and ethical hacking.</h3>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Cyber​​security Specialist | SOC Analyst</h3>
+<h3 align="center">A passionate cybersecurity professional specializing in **Threat Detection, Security Monitoring, and Incident Response**, with a strong background in **SIEM, Log Analysis, and Network Security**.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alfonsec0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsec0x01" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Cyber Security & Penetration Testing**
+- 🌱 I’m currently learning **SOC Analyst**
 
-- 🤝 I’m looking for help with **Reduce Cyber Threats by 99% & Secure Networks**
+- 🤝 I’m looking for help with **Monitoring & Defending Against Cyber Threats in Real Time**
 
 - 💬 Ask me about **Information Technology & Security**
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahahmedhoussin@gmail.com" target="_blank" title="Gmail"><code>E-mail</code></a>
 
-- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/15bpNaokfmRdDTDVqKnysT0pwWhjmOsgt/view?usp=sharing" rel="nofollow" target="_blank"><code>CV</code></a>
+- 📄 Know about my experiences in <a href="https://drive.google.com/file/d/1aYH1Le6uWIZWJNFGL1kIcIQBcuTOWLjM/view?usp=sharing" rel="nofollow" target="_blank"><code>CV</code></a>
 
 - ⚡ Fun fact **I think I'm curious.**
 
